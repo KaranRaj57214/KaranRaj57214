@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **karan8799742199@gmail.com** For Collaboration/Project or 
 - 🔭 **I’m currently prusing :Integrated Msc in Mathematics from NIT Warangal** 
 - 🌱 **I’m currently learning:** MERN
 - 👯 **I’m looking to collaborate on:** Real life Projects on Full Stack Web Development.
-- 🤔 **I’m looking for help with:** Projects Related on Web development.
+- 🤔 **I’m looking for help with:** Projects Related to Web development.
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** karan8799742199@gmail.com
 - 😄 **Pronouns:** Karan
