@@ -1,4 +1,15 @@
+# 💫 Hi 👋, I'm Karan Raj
+**A passionate Software Engineer || Full stack Developer || Problem solving skill.
 
+Email Me 👉 ✉️ **karan8799742199@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently prusing :Integrated Msc in Mathematics from NIT Warangal** 
+- 🌱 **I’m currently learning:** MERN
+- 👯 **I’m looking to collaborate on:** Real life Projects on Full Stack Web Development.
+- 🤔 **I’m looking for help with:** Projects Related on Web development.
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** karan8799742199@gmail.com
+- 😄 **Pronouns:** Karan
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/KaranRaj57214) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Karan Raj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karan8799742199@gmail.com) 
 
