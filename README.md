@@ -1,16 +1,13 @@
 # 💫 Hi 👋, I'm Karan Raj
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**A passionate Software Developer || Full Stack Development || Problems solver **
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **karan8799742199@gmai.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
+- 🔭 **I’m currently working on:** Inegrated Msc in Mathematics from NIT Warangal.
+- 🌱 **I’m currently learning:** MERN
+- 👯 **I’m looking to collaborate on:**Real Life-Projects related to Full Stack Development.
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 📫 **How to reach me:** karan8799742199@gmail.com
 <div align="center">
 
 ## 🌐 Socials:
