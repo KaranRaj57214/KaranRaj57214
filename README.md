@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **karan8799742199@gmai.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Integrated Msc in Mathematics from NIT Warangal.
+- 🔭 **I’m currently prusing :** Integrated Msc in Mathematics from NIT Warangal.
 - 🌱 **I’m currently learning:** MERN
 - 👯 **I’m looking to collaborate on:**Real Life-Projects related to Full Stack Development.
 - 💬 **Ask me about:** Collaboration, Tech Support
