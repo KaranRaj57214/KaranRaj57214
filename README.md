@@ -39,7 +39,7 @@ Email Me 👉 ✉️ **karan8799742199@gmai.com** For Collaboration/Project or A
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Portfolio](karan-portfolio-096.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://karan-portfolio-096.vercel.app)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=KaranRaj57214&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=KaranRaj57214&theme=dark&hide_border=false)<br/>
