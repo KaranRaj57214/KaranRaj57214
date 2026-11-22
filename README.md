@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **karan8799742199@gmai.com** For Collaboration/Project or A
 ## 🌐 Socials:
 
 <p align="center">
-  <a href="[https://bsky.app/profile/KaranRaj57214](https://github.com/KaranRaj57214)" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/KaranRaj57214" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
   </a>
 
@@ -27,10 +27,6 @@ Email Me 👉 ✉️ **karan8799742199@gmai.com** For Collaboration/Project or A
 
   <a href="mailto:karan8799742199@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://karan-portfolio-096.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
