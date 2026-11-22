@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **karan8799742199@gmai.com** For Collaboration/Project or A
 
 ## 🌐 Socials:
 
-<p align="left">
+<p align="center">
   <a href="https://bsky.app/profile/KaranRaj57214">
     <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
   </a>
