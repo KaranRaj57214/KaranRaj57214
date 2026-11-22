@@ -13,8 +13,10 @@ Email Me 👉 ✉️ **karan8799742199@gmai.com** For Collaboration/Project or A
 ## 🌐 Socials:
 
 <p align="center">
-  <a href="https://github.com/KaranRaj57214" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
+    <a href="https://github.com/KaranRaj57214" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      
+</a>
   </a>
 
   <a href="https://www.linkedin.com/in/karan-raj-a068582ab/" target="_blank" rel="noopener noreferrer">
